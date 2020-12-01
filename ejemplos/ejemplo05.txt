@@ -29,3 +29,5 @@
 29. Fin_Dependiendo_De
 30. Escribir "El resultado de la operación " + tipo + "es :" + resultado
 31. Fin
+// en la linea 15 hay un error  esta presentando un 4 y no existe esa op  , tambien faltaria un fin si despues de la linea 28 
+     
