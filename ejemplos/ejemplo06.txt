@@ -1,9 +1,10 @@
 1.  Inicio
 2.  n, i[0-n]
 3.  n <-- 2
-4.  Mientras n < 2 Entonces
+4.  Mientras n < 2 Entonces// falso 
 6.    << n
 8.    n <-- n + 1 
 9.  Fin Mientras"
 10. << n
 11. Fin
+// no hya errores solo presenta el valor de n  por lo uqe n es igual 2 y condicion es falsa 
