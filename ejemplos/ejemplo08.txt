@@ -7,3 +7,4 @@
 8.  Fin Haga_Hasta (numero <= 1)
 9.  Escribir numero
 9.  Fin
+   // entra al ciclo  entonces es igual a 1+1=2   y 2 <= 1(falso) entonces cierra el ciclo y presenta 1 y 2 
