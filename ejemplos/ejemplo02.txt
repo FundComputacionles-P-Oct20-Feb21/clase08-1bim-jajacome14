@@ -1,7 +1,7 @@
 1. Inicio
-2. edad, i[0,n]
+2. edad, i[0,n]	
 3. Si edad >= 18 entonces
 4.   Escribir "La edad ingresada pertenece a mayor de edad"
 5. Fin si
 6. Fin
-7  //el error es que la vairable edad no tiene ningun valor declarado 
+7  //el error es que la variable edad esta  declarado 
